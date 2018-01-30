@@ -1,2 +1,2 @@
-# congrats-words
-Congratulation words from various sources
+# Compliment words
+Compliment words from various sources
